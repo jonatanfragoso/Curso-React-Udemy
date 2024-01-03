@@ -1,2 +1,3 @@
 # Curso-React-Udemy
-Curso de React com JavaScript na Udemy - Professor Matheus Battisti
+
+Curso de React com JavaScript na Udemy - Professor Matheus Fraga
